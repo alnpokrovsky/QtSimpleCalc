@@ -6,8 +6,8 @@ CONFIG -= qt
 SOURCES += \
         main.cpp \
 
-FLEXSOURCES = lexer.l
-BISONSOURCES = parser.y
+FLEXSOURCES = dragon/lexer.l
+BISONSOURCES = dragon/parser.y
 
 OTHER_FILES +=  \
     $$FLEXSOURCES \
