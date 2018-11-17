@@ -1,6 +1,11 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
 
+# dragon sources
+dragon/*.cpp
+dragon/*.hpp
+
+# tmp files
 *~
 *.autosave
 *.a

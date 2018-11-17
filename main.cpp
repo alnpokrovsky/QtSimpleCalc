@@ -1,4 +1,4 @@
-#include "parser.tab.hpp"
+#include "dragon/parser.tab.hpp"
 #include <stdio.h>
 
 int main()
