@@ -1,7 +1,7 @@
 %{
     #include <stdio.h>
     #include <stdint.h>
-    #include "parser.tab.hpp"
+    #include "parser.tab.h"
 %}
 
 %option yylineno

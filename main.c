@@ -1,5 +1,6 @@
-#include "dragon/parser.tab.hpp"
 #include <stdio.h>
+
+extern int yyparse(void);
 
 int main()
 {
